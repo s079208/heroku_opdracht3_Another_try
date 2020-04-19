@@ -1,7 +1,7 @@
 {
   "blog": [{
     "title": "De heilige Clara van Assisi",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "content": "Clara werd geboren als dochter van de edelman Favarone di Offreduccio di Bernadino. Onder invloed van Franciscus van Assisi en met zijn hulp verliet zij het ouderlijk huis en legde zich toe op de navolging van Christus in radicale armoede. Samen met Franciscus stichtte zij de Arme Vrouwen van San Damiano. Tot haar dood verbleef Clara op deze plek en leefde er volgens de kloosterregel die zij zelf als eerste vrouw in de geschiedenis schreef. Deze regel werd pas op haar sterfbed door paus Innocentius IV goedgekeurd.",
     "maker": "Peter Paul Rubens",
     "datering": "1620",
     "type": "olieverfschets",
@@ -9,7 +9,9 @@
     "tags": "element-item olie ppr zeventien"
   },{
     "title": "Barbara Arents",
-    "content": "",
+    "content": "Trots toont Bartholomeus Rubens twee klonten Arabische gom, een product met veelzijdige geneeskrachtige eigenschappen. Hij was apotheker en de gom verwijst naar het prestige van zijn beroep. Barbara Arents kwam uit een adellijke familie. In haar rechterhand houdt zij twee viooltjes vast en in haar linker een rozenkrans. Deze attributen verwijzen naar haar kuisheid en vroomheid. Op de achterzijde van haar portret staat het huwelijkswapen met de datum ‘1530’. Hun enige zoon, Jan Rubens (1530-1587), de vader van de schilder, werd jurist en stadsmagistraat.
+
+",
     "maker": "Jacob Claesz",
     "datering": "1530",
     "type": "Schilderij",
@@ -17,7 +19,11 @@
     "tags": "element-item dame schilderij JC portret zestien"
   },{
     "title": "De marteldood van de Heilige Adrianus",
-    "content": "",
+    "content": "Adrianus was een Romeins officier die zich tot het Christendom bekeerde en op bevel van keizer Maximianus in 290 werd gedood. In deze eerder monochrome olieverfschets toont Peter Paul Rubens (1577-1640) hoe soldaten Adrianus hebben gebracht bij een heidense tempel met een beeld van Apollo, herkenbaar aan zijn muziekinstrument, de lier. Een priester verplicht hem het beeld aan te kijken. Zijn beide handen zijn reeds afgehakt, maar Adrianus blijft standvastig in zijn geloof en weigert de heidense godheid eer te bewijzen. Een beul heft de hakbijl om ook zijn voeten af te hakken. Het onderste gedeelte van de compositie is in de schets weggevallen door het inkorten van het paneel met een 10-tal centimeter.
+
+Het verhaal van deze marteling komt voor in de 'Legenda Aurea', een middeleeuwse compilatie van heiligenlevens. De theologen van de Contrareformatie trokken van leer tegen deze tekst omdat hij zoveel verzonnen elementen bevatte. Maar anderzijds stelde de triomferende kerk van de Contrareformatie de heldhaftige martelaars graag tot voorbeeld van de gelovige.
+
+Vermoedelijk was deze schets bestemd voor een schilderij dat geplaatst moest worden op een altaar van de H. Adrianus, misschien voor een kerk in Noord-Frankrijk, waar een belangrijke devotie bestond voor de heilige. Een schilderij dat zich vroeger in het Museum in Douai bevond, afkomstig uit het kartuizerklooster van die stad, is ongetwijfeld een kopie naar het verloren origineel een geeft er een beeld van. Het altaarstuk had een meer uitgesproken hoogteformaat.",
     "maker": "Peter Paul Rubens",
     "datering": "1600-1619",
     "type": "Olieverfschets",
@@ -25,7 +31,9 @@
     "tags": "element-item olie ppr zeventien"
   },{
     "title": "Het slotpark te Ekeren",
-    "content": "",
+    "content": "Rubens bezat twee buitenhuizen, waaronder dit domein in Ekeren, ten noorden van Antwerpen. Hij kocht het op zijn vijftigste, in 1627. Van het domein en het gebouw rest er vandaag niets meer. Afgebeeld is een parkachtig landschap vóór een middeleeuwse burcht. Jongelui zijn zich aan het amuseren en links van hen slaan een al wat oudere man en een jonge vrouw hun activiteiten gade. Deze figuren worden meestal geïdentificeerd als Rubens en zijn tweede vrouw Helena Fourment.
+
+",
     "maker": "Atelier van PPR",
     "datering": "1627-1630",
     "type": "Schilderij",
@@ -33,7 +41,11 @@
     "tags": "element-item schilderij ppr zeventien"
   },{
     "title": "Zelfportret",
-    "content": "",
+    "content": "Anthony van Dyck was de beroemdste en meest getalenteerde leerling van Peter Paul Rubens. Het zelfportret dat opgedoken is, schilderde de Antwerpse meester in opdracht van de Engelse koning Charles I.
+
+Zelfportretten van succesvolle kunstenaars waren gegeerde objecten voor kunstverzamelaars. Charles I had zelf een kleine, maar uitgelezen collectie zelfportretten van Titiaan, Bronzino, Giulio Romano, Rubens en … Van Dyck. De koning had een enorme bewondering en genegenheid voor zijn hofschilder. Dat blijkt uit zijn woorden op Van Dyck’s graf in Londen:
+
+‘Anthony van Dyck, who while he lived gave immortality to many’.",
     "maker": "Anthony van Dyck",
     "datering": "1615",
     "type": "Schilderij",
@@ -41,7 +53,7 @@
     "tags": "element-item schilderij zelfportret portret zeventien"
   },{
     "title": "Stilleven met dode vogels",
-    "content": "",
+    "content": "Met dit ‘Stilleven met dode vogels’ brengt Adriaenssen de meest uiteenlopende vogelsoorten bijeen die in de zeventiende eeuw werden gegeten. Achteraan liggen twee korhoenders, een zwart-en-wit mannetje en een bruin vrouwtje. In de korf zitten een eend, een ijsvogel en een spreeuw. Op de rand van de tafel balanceren een koppel patrijzen, een Vlaamse gaai, een groene specht en enkele zangvogels die werden gevangen op met lijm ingestreken takken. De korf vooraan bevat een eend en een haan, geplukt en klaar voor de pan.",
     "maker": "Alexander Adriaenssen",
     "datering": "1610-1661",
     "type": "Schilderij",
@@ -49,7 +61,13 @@
     "tags": "element-item schilderij dieren zeventien"
   },{
     "title": "Adam en Eva",
-    "content": "",
+    "content": "God plaatste Adam en Eva in de Hof van Eden (het aards Paradijs), en vertelde hen dat zij het fruit van alle bomen in de tuin konden eten, behalve het fruit van de boom van de kennis van goed en kwaad. Zij leefden gelukkig tot een slang (in de christelijke interpretatie Satan, de duivel) Eva verleidde om de (verboden vrucht) (traditioneel als appel uitgelegd, maar dat staat er niet) te eten. Zij at ervan, en gaf het fruit ook aan Adam, die er ook van at. Zij werden zich op dat moment onmiddellijk bewust van hun naaktheid en gingen zich ervoor schamen.
+
+Na de ongehoorzaamheid van Adam en Eva leidde God hen weg uit de Hof van Eden, waar de boom des levens stond. Nu ze kennis hadden gekregen van goed en van kwaad, verhinderde God dat Adam en Eva nog langer van die boom zouden kunnen eten en daardoor eeuwig zouden kunnen leven. Aldus deed de dood zijn intrede. (Stof zijt gij, en tot stof zult gij wederkeren), sprak God tot hen.
+
+Na te zijn verdreven uit de Hof van Eden moest Adam in hun levensonderhoud voorzien en baarde Eva kinderen. Drie zoons worden bij name genoemd: Kaïn en Abel en daarna Seth. Zo werden Adam en Eva de ouders van het mensdom.
+
+De zonde van Adam en Eva en het daaruit voortvloeiend verlies van de gunst van God en hun plezierig verblijf in het Paradijs staat bekend als de zondeval.",
     "maker": "Peter Paul Rubens",
     "datering": "1598-1600",
     "type": "Schilderij",
@@ -57,7 +75,7 @@
     "tags": "element-item schilderij ppr zestien"
   },{
     "title": "Bartholomeus Rubens",
-    "content": "",
+    "content": "Trots toont Bartholomeus Rubens twee klonten Arabische gom, een product met veelzijdige geneeskrachtige eigenschappen. Hij was apotheker en de gom verwijst naar het prestige van zijn beroep. Barbara Arents kwam uit een adellijke familie. In haar rechterhand houdt zij twee viooltjes vast en in haar linker een rozenkrans. Deze attributen verwijzen naar haar kuisheid en vroomheid. Op de achterzijde van haar portret staat het huwelijkswapen met de datum ‘1530’. Hun enige zoon, Jan Rubens (1530-1587), de vader van de schilder, werd jurist en stadsmagistraat.",
     "maker": "Jacob Claesz",
     "datering": "1530",
     "type": "Schilderij",
@@ -65,7 +83,9 @@
     "tags": "element-item schilderij jc portret zestien"
   },{
     "title": "Nicolaas Rockox",
-    "content": "",
+    "content": "Nicolaas Rockox (1560-1640) was een veelzijdige Antwerpse burger, die veel respect afdwong in zijn stad. Hij speelde een belangrijke rol in het politieke, sociale en economische leven tijdens de eerste helft van de 17e eeuw. Bovendien was hij een gewaardeerde humanist, oudheidkundige, numismaat, mecenas en kunstverzamelaar.
+
+Hij was gehuwd met Adriana Perez, de dochter van een Spaanse koopman en bankier. Ze kochten hun patriciërswoning Den Gulden Rinck in 1603 en lieten het huis verbouwen in Vlaamse renaissance-stijl en voegden er een kunstkamer en een stadstuin aan toe. Adriana stierf in 1619. Nicolaas woonde er tot aan zijn dood in 1640.  Zijn buurman was sinds 1622 de Antwerpse dierenschilder Frans Snijders.",
     "maker": "Otto van Veen",
     "datering": "1600",
     "type": "Schilderij",
@@ -73,7 +93,11 @@
     "tags": "element-item schilderij jc portret zestien"
   },{
     "title": "De Annunciatie",
-    "content": "",
+    "content": "In de Bijbel wordt verteld  hoe de maagd Maria bezoek kreeg van de engel Gabriël die haar voorspelde dat zij de moeder van Christus zou worden. Maria is afgebeeld in haar huiskamer. De huiselijke sfeer wordt nog versterkt door de rieten mand met Maria’s naaiwerk en de slapende poes rechtsonder.
+
+    Rubens begint aan dit schilderij na zijn verblijf in Italië, waar hij onder de indruk was geraakt van het werk van de grote renaissanceschilders. Die Italiaanse invloed is terug te vinden in de opmerkelijk heldere kleuren en de losse schilderwijze die bijdraagt aan de beweeglijkheid van de voorstelling. Voor de blauwe mantel van Maria gebruikte Rubens ultramarijn, een kostbaar pigment bereid van fijngemalen lapis lazuli.
+
+ ",
     "maker": "Peter Paul Rubens",
     "datering": "1610-1628",
     "type": "Schilderij",
