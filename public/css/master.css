@@ -70,6 +70,7 @@ img{
 
 .grid{
 margin: auto;
+z-index: 100;
   }
 
 body{
@@ -136,6 +137,7 @@ button:hover{
   position: fixed;
   right: 5vw;
   bottom: 5vh;
+  z-index: 200;
 }
 .links, .rechts{
   height: 10px;
