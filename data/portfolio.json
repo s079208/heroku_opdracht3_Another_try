@@ -1,0 +1,83 @@
+{
+  "blog": [{
+    "title": "De heilige Clara van Assisi",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "maker": "Peter Paul Rubens",
+    "datering": "1620",
+    "type": "olieverfschets",
+    "imgtag": "/img/dhcva.jpg",
+    "tags": "element-item olie ppr zeventien"
+  },{
+    "title": "Barbara Arents",
+    "content": "",
+    "maker": "Jacob Claesz",
+    "datering": "1530",
+    "type": "Schilderij",
+    "imgtag": "/img/BA.jpg",
+    "tags": "element-item dame schilderij JC portret zestien"
+  },{
+    "title": "De marteldood van de Heilige Adrianus",
+    "content": "",
+    "maker": "Peter Paul Rubens",
+    "datering": "1600-1619",
+    "type": "Olieverfschets",
+    "imgtag": "/img/DMVDHA.jpg",
+    "tags": "element-item olie ppr zeventien"
+  },{
+    "title": "Het slotpark te Ekeren",
+    "content": "",
+    "maker": "Atelier van PPR",
+    "datering": "1627-1630",
+    "type": "Schilderij",
+    "imgtag": "/img/HSTE.jpg",
+    "tags": "element-item schilderij ppr zeventien"
+  },{
+    "title": "Zelfportret",
+    "content": "",
+    "maker": "Anthony van Dyck",
+    "datering": "1615",
+    "type": "Schilderij",
+    "imgtag": "/img/ZD.jpg",
+    "tags": "element-item schilderij zelfportret portret zeventien"
+  },{
+    "title": "Stilleven met dode vogels",
+    "content": "",
+    "maker": "Alexander Adriaenssen",
+    "datering": "1610-1661",
+    "type": "Schilderij",
+    "imgtag": "/img/SMDV.jpg",
+    "tags": "element-item schilderij dieren zeventien"
+  },{
+    "title": "Adam en Eva",
+    "content": "",
+    "maker": "Peter Paul Rubens",
+    "datering": "1598-1600",
+    "type": "Schilderij",
+    "imgtag": "/img/AEE.jpg",
+    "tags": "element-item schilderij ppr zestien"
+  },{
+    "title": "Bartholomeus Rubens",
+    "content": "",
+    "maker": "Jacob Claesz",
+    "datering": "1530",
+    "type": "Schilderij",
+    "imgtag": "/img/BR.jpg",
+    "tags": "element-item schilderij jc portret zestien"
+  },{
+    "title": "Nicolaas Rockox",
+    "content": "",
+    "maker": "Otto van Veen",
+    "datering": "1600",
+    "type": "Schilderij",
+    "imgtag": "/img/NR.jpg",
+    "tags": "element-item schilderij jc portret zestien"
+  },{
+    "title": "De Annunciatie",
+    "content": "",
+    "maker": "Peter Paul Rubens",
+    "datering": "1610-1628",
+    "type": "Schilderij",
+    "imgtag": "/img/DA.jpg",
+    "tags": "element-item schilderij ppr zeventien"
+  }]
+}
